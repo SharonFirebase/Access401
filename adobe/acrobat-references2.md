@@ -4,8 +4,8 @@
 ##### Posted on January 3, 2017 by Karl Heinz Kremer
 ##### This is a bit longer than usual, so let me add a table of contents here that allows you to jump straight to the section you are interested in.
 
-JavaScript in Acrobat
-What is JavaScript
+1.JavaScript in Acrobat
+1. What is JavaScript
 Learning the JavaScript Core Language
 Differences (console.log)
 More Books
