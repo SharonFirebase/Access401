@@ -4,14 +4,12 @@
 ##### Posted on January 3, 2017 by Karl Heinz Kremer
 ##### This is a bit longer than usual, so let me add a table of contents here that allows you to jump straight to the section you are interested in.
 
-*.JavaScript in Acrobat
-*.What is JavaScript
-*.Learning the JavaScript Core Language
-1.Differences (console.log)
-1.More Books
-1.How do we run this code in Acrobat?
-1.More Differences (alert and prompt)
-1.A Book Just About JavaScript for Adobe Acrobat
-1.Further Steps
-
 JavaScript in Acrobat
+What is JavaScript
+Learning the JavaScript Core Language
+Differences (console.log)
+More Books
+How do we run this code in Acrobat?
+More Differences (alert and prompt)
+A Book Just About JavaScript for Adobe Acrobat
+Further Steps
